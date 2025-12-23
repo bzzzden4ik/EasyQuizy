@@ -1,0 +1,1 @@
+export const forbidden_mixes_keys = ['id', 'owner_id', 'created_at', 'code']
